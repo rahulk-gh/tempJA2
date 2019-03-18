@@ -19,6 +19,8 @@ public class NumberDivider {
                 System.out.println("Both arguments should be numbers");
             }catch(ArithmeticException exc) {
                 System.out.println("cannot divide in that manner");
+                //in another example we would add a line "throw exc;"
+                //but there is more..
             }
         }
     }
