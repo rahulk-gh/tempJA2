@@ -8,6 +8,7 @@ dummy/
 
 #Packages to ignore
 
-*.jar
+*.jar , *.xml, *.properties
 
 
+/build/
