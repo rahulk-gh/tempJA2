@@ -1,0 +1,13 @@
+#Dont track the following folders
+
+dummy/
+
+
+
+
+
+#Packages to ignore
+
+*.jar
+
+
